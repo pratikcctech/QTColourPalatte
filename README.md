@@ -37,9 +37,10 @@ A simple implementation of an OpenGL window  allowing dynamic shader loading and
     }
 ## Output
 
-![Screenshot (121)](https://github.com/pratikcctech/QTColourPalatte/assets/149318512/3744ccc9-48a0-4bc4-b432-fef52aa4368c)
 
-![Screenshot (122)](https://github.com/pratikcctech/QTColourPalatte/assets/149318512/27b15116-cdb9-49e7-9b58-0145ae54b7e5)
+
+https://github.com/pratikcctech/QTColourPalatte/assets/149318512/710499ee-4f2a-4055-b818-f9884ac9a647
+
 
 
 
