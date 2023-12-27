@@ -1,0 +1,2 @@
+#define COLLISIONDETECTIONALGO_API __declspec(dllexport)
+#define COLLISIONDETECTIONALGO_API __declspec(dllimport)
