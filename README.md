@@ -35,6 +35,12 @@ A simple implementation of an OpenGL window  allowing dynamic shader loading and
             emit dataUpdate();  // Trigger an update to redraw the curves with the new color
         }
     }
+4. **rendering points in OpenGLWindow.h
+   ```
+   mProgram->setUniformValue(m_matrixUniform, matrix);
+   mProgram->setUniformValue("r", r);
+   mProgram->setUniformValue("g", g);
+   mProgram->setUniformValue("b", b);
 ## Output
 
 
